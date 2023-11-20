@@ -5,3 +5,11 @@
 ```
 ./build.sim.exe
 ```
+
+### OR
+
+Link sfml library in makefile & run:
+
+```
+make all
+```
